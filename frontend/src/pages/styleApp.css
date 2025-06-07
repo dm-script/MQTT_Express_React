@@ -1,0 +1,112 @@
+.container-phone {
+    max-width: 720px;
+    --bss-gutter-x: 1.5rem;
+    --bss-gutter-y: 0;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.body-dashboard {
+    flex-grow: 1;
+    padding-bottom: 80px;
+}
+
+.card-dashboard {
+    width: 100%;
+    background-color: #eeeeee;
+    border-radius: 15px;
+    margin-bottom: 25px;
+    padding: 15px;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.2);
+}
+
+.card-dashboard .col {
+    position: relative;
+}
+
+.bar-sensor {
+    background-color: #d4d4d4;
+    height: 40px;
+    border-radius: 12px;
+    font-weight: 700;
+    padding: 10px;
+    position: relative;
+    z-index: 1;
+}
+
+.bar-sensor-move {
+    position: absolute;
+    height: 40px;
+    top: 0;
+    z-index: 2;
+    color: #ffffff;
+    border-radius: 12px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    transition: width 0.5s ease;
+}
+
+.icon-left {
+    position: absolute;
+    left: 10px;
+    font-size: 20px;
+}
+
+.sensor-value {
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-weight: bold;
+    z-index: 3;
+    color: white;
+}
+
+.card-judul {
+    font-family: "Share Tech";
+    margin: 0;
+    margin-top: 15px;
+    color: #3775ec;
+    font-weight: bold;
+}
+
+.navbar {
+    background-color: #eeeeee;
+    position: fixed !important;
+    bottom: 0;
+    width: 100%;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    box-shadow: 2px -2px 15px rgba(0, 0, 0, 0.2);
+    max-width: 720px;
+    z-index: 5;
+}
+
+.navbar a {
+    font-family: "Share Tech";
+    color: #585858;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.col-fixed-left {
+    width: 15%;
+}
+
+.col-fixed-center {
+    width: 70%;
+}
+
+.col-fixed-right {
+    width: 15%;
+}
+
+.col-navbar {
+    width: 50%;
+}
