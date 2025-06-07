@@ -36,3 +36,4 @@ Dalam repository ini adalah sistem monitoring dan kontrol mikrokontoler dinamai 
 
 ## Testing Video
 [![Watch the video](https://img.youtube.com/vi/6AZEsBuW6Ag/maxresdefault.jpg)](https://youtu.be/6AZEsBuW6Ag)
+### [Watch this video on YouTube](https://youtu.be/6AZEsBuW6Ag)
