@@ -33,3 +33,6 @@ Dalam repository ini adalah sistem monitoring dan kontrol mikrokontoler dinamai 
 5. Code masih menggunakan generate value random via Arduino syntax bisa diubah dengan kebutuhan sensormu.
 6. Setting board port -> Upload.
 7. Ready to use.
+
+## Testing Video
+[![Watch the video](https://img.youtube.com/vi/6AZEsBuW6Ag/maxresdefault.jpg)](https://youtu.be/6AZEsBuW6Ag)
