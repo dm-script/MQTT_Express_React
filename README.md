@@ -21,7 +21,7 @@ Dalam repository ini adalah sistem monitoring dan kontrol mikrokontoler dinamai 
 4. Ready to use.
 
 #### ESP8266 Code
-1. Download code dari repository ini.
+1. Download code dari repository ini l.
 2. Treatment jika menggunakan MQTT over SSL inject SSL certificate mengacu dokumentasi HiveMQ
    Login/Sign Up HiveMQ Cloud -> On Console Cluster going to -> Getting Started Tab -> Choose Arduino
    ![Screenshot 2025-06-07 112524](https://github.com/user-attachments/assets/35cd1de4-1ca7-461d-8fcc-42dec78361f0)
