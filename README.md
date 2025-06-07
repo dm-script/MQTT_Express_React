@@ -1,7 +1,7 @@
 ![Front Wall](https://github.com/user-attachments/assets/c773bb4b-0480-4c07-8387-2ff702dc290b)
 
 ## IoT Serve v1.0 (MQTT React Express)
-Dalam repository ini adalah sistem monitoring dan kontrol mikrokontoler dinamai dengan branding **IoT Serve** (tested : **ESP8266**) berbasis IoT (protokol : **MQTT** | tested : HiveMQ Cloud Broker) dan aplikasi web dengan stack Javascript (**M**ySql, **E**xpress, **R**eact, **N**odeJs). Sorce code ini dibuat hanya sebagai base sistem IoT dan dirancang untuk dapat digunakan dengan **shared hosting** sebagai contoh saya buat sebagai sistem monitoring dan kontrol kebun. Free for all to use or modified **Best Regards : DM**
+Dalam repository ini adalah sistem monitoring dan kontrol mikrokontoler dinamai dengan branding **IoT Serve** (tested : **ESP8266**) berbasis IoT (protokol : **MQTT** | tested : HiveMQ Cloud Broker) dan aplikasi web dengan stack Javascript (**M**ySql, **E**xpress, **R**eact, **N**odeJs). Source code ini dibuat hanya sebagai base sistem IoT dan dirancang untuk dapat digunakan dengan **shared hosting** sebagai contoh saya buat sebagai sistem monitoring dan kontrol kebun. Free for all to use or modified **Best Regards : DM**
 
 #### Jika kamu merasa ini bermanfaat, kamu bisa mendukung saya lewat donasi:
 - [🎁 Dukung di Saweria](https://saweria.co/dmaulana)
